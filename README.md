@@ -13,15 +13,15 @@ Build a trigger word detection application using an attention model
 # Hardware Requirements
 For the optimal student experience, we recommend the following hardware
 configuration:
-• Processor: Intel Core i5 or equivalent
-• Memory: 4 GB RAM
-• Storage: 5 GB available space
+* Processor: Intel Core i5 or equivalent
+* Memory: 4 GB RAM
+* Storage: 5 GB available space
 
 # Software Requirements
 We also recommend that you have the following software installed in advance:
-• OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Linux
+* OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Linux
 (Ubuntu, Debian, Red Hat, or Suse), or the latest version of OS X
-• Python (3.6.5 or later, preferably 3.7; available through https://www.python.org/downloads/release/python-371/)
-• Jupyter (go to https://jupyter.org/install and follow the instructions to install).Alternatively, you can use Anaconda to install Jupyter.
-• Keras (https://keras.io/#installation)
-• Google Colab: It is a free Jupyter notebook environment and runs on cloud infrastructure. It is highly recommended as it requires no setup and has pre-installed popular Python packages and libraries (https://colab.research.google.com/notebooks/welcome.ipynb)
+* Python (3.6.5 or later, preferably 3.7; available through https://www.python.org/downloads/release/python-371/)
+* Jupyter (go to https://jupyter.org/install and follow the instructions to install).Alternatively, you can use Anaconda to install Jupyter.
+* Keras (https://keras.io/#installation)
+* Google Colab: It is a free Jupyter notebook environment and runs on cloud infrastructure. It is highly recommended as it requires no setup and has pre-installed popular Python packages and libraries (https://colab.research.google.com/notebooks/welcome.ipynb)
